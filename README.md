@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Telegram+Lookup+Bot;Mobile+%2B+Aadhaar+Search;Vehicle+%2B+Family+Search;UPI+ID+Verification;5+Free+Credits!" alt="Typing SVG" />
 
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/YourBotUsername)
+[![Telegram](https://img.shields.io/badge/Telegram-@GsmhackerBot-blue?logo=telegram)](https://t.me/GsmhackerBot)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)](https://python.org)
 
 
@@ -73,3 +73,54 @@
 ---
 
 ## 🚀 Deployment
+
+
+### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
+```
+
+pkg update && pkg upgrade -y
+
+
+pkg install python -y
+
+
+pkg install python-pip -y
+
+
+pkg install git -y
+
+
+pkg install openssl -y
+
+
+pkg install libxml2 -y
+
+
+pip install python-telegram-bot==20.7
+
+
+termux-setup-storage
+
+
+git clone https://github.com/shahid2005a/GROUP-BOT.git
+```
+
+```
+cd GROUP-BOT
+```
+```
+python GROUPBOT.py
+```
+
+## 📌 Contact Me  
+
+<a href="https://www.youtube.com/@DigitalCyber-c5n">
+  <img src="https://img.shields.io/badge/Digital Cyber YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Cyber YouTube">
+</a>  
+<br>
+
+<a href="https://t.me/GsmhackerBot">
+  <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+</a>  
+<br>
+
