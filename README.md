@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Telegram+Lookup+Bot;Mobile+%2B+Aadhaar+Search;Vehicle+%2B+Family+Search;UPI+ID+Verification;5+Free+Credits!" alt="Typing SVG" />
 
-[![Telegram](https://img.shields.io/badge/Telegram-@GsmhackerBot-blue?logo=telegram)](https://t.me/GsmhackerBot)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/GsmhackerBot)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)](https://python.org)
 
 
@@ -81,10 +81,16 @@
 pkg update && pkg upgrade -y
 
 
+termux-setup-storage
+
+
 pkg install python -y
 
 
 pkg install python-pip -y
+
+
+pkg install nano-y
 
 
 pkg install git -y
@@ -99,14 +105,14 @@ pkg install libxml2 -y
 pip install python-telegram-bot==20.7
 
 
-termux-setup-storage
-
-
 git clone https://github.com/shahid2005a/GROUP-BOT.git
+
+
+cd GROUP-BOT
 ```
 
 ```
-cd GROUP-BOT
+nano GROUPBOT.py
 ```
 ```
 python GROUPBOT.py
