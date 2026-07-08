@@ -118,15 +118,64 @@ nano GROUPBOT.py
 python GROUPBOT.py
 ```
 
-## 📌 Contact Me  
+---
 
-<a href="https://www.youtube.com/@DigitalCyber-c5n">
-  <img src="https://img.shields.io/badge/Digital Cyber YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Cyber YouTube">
-</a>  
-<br>
+🤝 Support & Contributing
 
-<a href="https://t.me/GsmhackerBot">
-  <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
-</a>  
-<br>
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Developer</b></td>
+      <td>Aryan Afridi</td>
+    </tr>
+    <tr>
+      <td><b>YouTube</b></td>
+      <td>@aryanafridi00</td>
+    </tr>
+    <tr>
+      <td><b>GitHub</b></td>
+      <td>shahid2005a</td>
+    </tr>
+    <tr>
+      <td><b>Website</b></td>
+      <td>dgtlcyber.netlify.app</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+📌 Contact & Community
+
+<p align="center">
+  <a href="https://dgtlcyber.netlify.app/">
+    <img src="https://img.shields.io/badge/dgtlcyber-Website-2ea44f?style=for-the-badge&logo=link&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.youtube.com/@aryanafridi00">
+    <img src="https://img.shields.io/badge/Aryan Afridi YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://t.me/GsmhackerBot">
+    <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Termux File Tool - Made for Mobile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>"Manage files like a pro on Termux"</i>
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ by DGTL CYBER Official</sub>
+</p>
+
+<p align="center">
+  <a href="#top">⬆ Back to Top</a>
+</p>
+
+</div>
 
